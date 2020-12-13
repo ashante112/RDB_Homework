@@ -1,2 +1,2 @@
-# quickdemoapp
-This is a quick demo app.
+# RDB_Homework
+This is Shawntell's personal repository.
