@@ -4,11 +4,11 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.  For this challenge, I will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-Bonus:
+<b>Bonus:</b>
 
 Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure or cancellation.
 
-Bonus Statistical Analysis:
+<b>Bonus Statistical Analysis:</b>
 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitiative metric, such as the number of campaign backers, is by creating a summary statistics table.
 
